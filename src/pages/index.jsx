@@ -12,7 +12,7 @@ export default function Init() {
           height: '100vh'
         }}>
           <Navegador texto="Estiloso" destino="/estiloso"/>
-          <Navegador texto="Exemplo" destino="/exemplo" cor="#8b008b"/>
+          <Navegador texto="Exemplo" destino="/exemplo" cor="#8b008f"/>
           <Navegador texto="JSX" destino="/jsx" cor="#dc143c"/>
         </div>
     )
